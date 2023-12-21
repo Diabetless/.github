@@ -15,8 +15,8 @@ The Diabetless is an app designed to assist individuals in preventing and managi
 
 ## UI/UX Design
 
-- Link Hi-Fi Design : [Mockup & Wireframe](#)
-- Link Prototype Design : [Prototype](#)
+- Link Hi-Fi Design : [Mockup & Wireframe](https://www.figma.com/file/0Axs2xod0Wg6PDVPSDquXp/Bangkit-Capstone?type=design&node-id=0%3A1&mode=design&t=vL8d8wMzj0yjqJzh-1)
+- Link Prototype Design : [Prototype](https://www.figma.com/proto/0Axs2xod0Wg6PDVPSDquXp/Bangkit-Capstone?type=design&node-id=1-3&t=tEWaz9Smx4ZwrfQs-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=301%3A763&mode=design)
 
 ## Deployment Link Apk
 Coming Soon!
