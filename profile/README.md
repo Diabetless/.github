@@ -1,5 +1,9 @@
 # Diabetless : Prevent and Manage Diabetes
 
+<p align='center'>
+  <img src='https://github.com/Diabetless/.github/blob/main/assets/Diabetless%20Logo.png' alt='Diabetless' width=250 />
+</p>
+
 The Diabetless is an app designed to assist individuals in preventing and managing diabetes. It addresses the significant issue of diabetes prevalence in Indonesia, attributed to unhealthy lifestyle choices and a lack of nutritional awareness. The app's primary objective is to empower users by promoting a balanced lifestyle while facilitating easy monitoring of blood sugar levels. It leverages technology to illustrate the impact of various foods on blood sugar, enabling informed dietary decisions.
 
 ## Authors by Team ID: `CH2-PS073`
@@ -19,7 +23,7 @@ The Diabetless is an app designed to assist individuals in preventing and managi
 - Link Prototype Design : [Prototype](https://www.figma.com/proto/0Axs2xod0Wg6PDVPSDquXp/Bangkit-Capstone?type=design&node-id=1-3&t=tEWaz9Smx4ZwrfQs-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=301%3A763&mode=design)
 
 ## Deployment Link Apk
-Coming Soon!
+[Deployment APK](https://drive.google.com/file/d/1lRwjvmLY_Q1ux0VzR-vOAtdwRThE_hR3/view?usp=drive_link)
 
 ## Technologies, Resources, and Tools
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-ff7e00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
